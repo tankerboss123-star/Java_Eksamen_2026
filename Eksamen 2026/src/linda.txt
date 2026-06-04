@@ -1,0 +1,40 @@
+1
+5
+Linda Kristoffersen
+Østliveien 4, Oppegård
++47 555 55 555
+---
+4
+Hengekøye
+Lett hengekøye for tur
+120
+5
+SPORT
+Sommer
+1
+---
+Bord
+Langbord til selskaper
+15O
+5
+PARTY
+2
+false
+true
+---
+Høytrykksspyler
+Kärcher høytrykksspyler
+300
+5
+TOOL
+Elektrisk
+true
+---
+Skøyter
+Ishockeyskøyter størrelse 38
+100
+5
+SPORT
+Vinter
+1
+---

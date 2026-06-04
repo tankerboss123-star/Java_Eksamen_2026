@@ -1,0 +1,62 @@
+2
+3
+Julie Engelsvik
+Vestliveien 123, Oppegård
++47 333 33 333
+---
+2
+Sara Berg
+Oppegård allé 5, Oppegård
++47 222 22 222
+---
+6
+Festtelt
+Stort telt for arrangementer
+400
+2
+PARTY
+1
+false
+true
+---
+Snøfreser
+Kraftig snøfreser
+600
+2
+TOOL
+Bensin
+true
+---
+Kubbsett
+Komplett kubbspill
+90
+2
+SPORT
+Sommer
+8
+---
+Projektor
+Full HD projektor
+350
+3
+PARTY
+1
+true
+false
+---
+Kantklipper
+Elektrisk kantklipper
+200
+3
+TOOL
+Elektrisk
+true
+---
+Sykkel
+Terrengsykkel
+200
+3
+SPORT
+Sommer
+1
+---

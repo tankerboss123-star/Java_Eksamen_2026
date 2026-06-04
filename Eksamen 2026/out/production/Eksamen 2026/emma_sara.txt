@@ -1,0 +1,45 @@
+2
+1
+Emma Johansen
+Greverudslyngen 12, Oppegård
++47 111 11 111
+---
+2
+Sara Berg
+Oppegård allé 5, Oppegård
++47 222 22 222
+---
+4
+Telt
+4-mannstelt
+150
+1
+SPORT
+Sommer
+4
+---
+Vinkelsliper
+Bosch vinkelsliper
+200
+1
+TOOL
+Elektrisk
+true
+---
+Stoler
+20 klappstoler
+10
+2
+PARTY
+20
+false
+true
+---
+Ski
+Langrennsski
+50
+2
+SPORT
+Vinter
+1
+---
